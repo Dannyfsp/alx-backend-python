@@ -4,4 +4,5 @@ A repository that entails all project regrading python in ALX backend specializa
 
 ## Project
 The following are the projects:
-- Python variable annotations
+- 0x00-Python variable annotations
+- 0x01-Python - Async
