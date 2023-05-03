@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 '''
-Description:    import async_comprehension and write a measure_runtime coroutine
-                that will execute async_comprehension 4 times in parallel using
-                asyncio.gather.
-                measure_runtime should measure the total runtime and return it.
+Description: Import async_comprehension and write a measure_runtime coroutine
+             that will execute async_comprehension 4 times in parallel using
+             asyncio.gather.
+             measure_runtime should measure the total runtime and return it.
 '''
 
 
