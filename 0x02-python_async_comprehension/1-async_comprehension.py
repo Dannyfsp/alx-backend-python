@@ -9,7 +9,7 @@ Description:    Import async_generator from 0-async_generator.py and then write
 
 from typing import List
 
-async_genrator = __import__('0-async_generator').async_generator
+async_generator = __import__('0-async_generator').async_generator
 
 
 async def async_comprehension() -> List[float]:
